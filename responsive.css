@@ -9,26 +9,17 @@
         padding-top: 40px;
     }
     .sm2{
-        /* background-color: black; */
         display: flex;
         flex-wrap: wrap;
-        /* align-items: center; */
         justify-content: center;
     
     }
     .sm2_1_img{
-        /* width: 100vw; */
-        /* margin-left: -55px; */
-        /* background-color: green; */
-        /* height: 50px; */
-        /* line-height: 12px; */
         padding-top: 0%;
         padding-left: 22px;
     }
     .sm2_1{
         width: 100vw;
-        /* margin-left: -55px; */
-        /* background-color: yellow; */
         height: auto;
         display: flex;
         justify-content: center;
@@ -41,23 +32,16 @@
 
     .sm2_2{
         width: 100vw;
-        /* background-color: pink; */
         display: flex;
-        /* align-items: center; */
         justify-content: center;
-        /* margin: 1px; */
 
     }
     .sm2_2_1{
         width: 340px;
-        /* background-color: yellow; */
         
     }
     .sm2_2_2{
         width: 330px;
-        /* display: flex;
-        justify-content: center;
-        flex-direction: column; */
     }
     #emailid{
         width: 300px;
